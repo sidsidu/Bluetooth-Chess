@@ -1,0 +1,13 @@
+C:\Users\Sid\Desktop\Coding Stuff\bluetooth chess\files.txt
+C:\Users\Sid\Desktop\Coding Stuff\bluetooth chess\res\raw\pieces\bB.svg
+C:\Users\Sid\Desktop\Coding Stuff\bluetooth chess\res\raw\pieces\bK.svg
+C:\Users\Sid\Desktop\Coding Stuff\bluetooth chess\res\raw\pieces\bN.svg
+C:\Users\Sid\Desktop\Coding Stuff\bluetooth chess\res\raw\pieces\bP.svg
+C:\Users\Sid\Desktop\Coding Stuff\bluetooth chess\res\raw\pieces\bQ.svg
+C:\Users\Sid\Desktop\Coding Stuff\bluetooth chess\res\raw\pieces\bR.svg
+C:\Users\Sid\Desktop\Coding Stuff\bluetooth chess\res\raw\pieces\wB.svg
+C:\Users\Sid\Desktop\Coding Stuff\bluetooth chess\res\raw\pieces\wK.svg
+C:\Users\Sid\Desktop\Coding Stuff\bluetooth chess\res\raw\pieces\wN.svg
+C:\Users\Sid\Desktop\Coding Stuff\bluetooth chess\res\raw\pieces\wP.svg
+C:\Users\Sid\Desktop\Coding Stuff\bluetooth chess\res\raw\pieces\wQ.svg
+C:\Users\Sid\Desktop\Coding Stuff\bluetooth chess\res\raw\pieces\wR.svg

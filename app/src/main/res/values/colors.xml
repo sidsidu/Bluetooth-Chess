@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#b0d18b</color>
+    <color name="primary_container">#7b9a5a</color>
+    <color name="on_primary">#1e3702</color>
+    <color name="on_primary_container">#183000</color>
+
+    <color name="secondary">#96d5a0</color>
+    <color name="secondary_container">#15542b</color>
+    <color name="on_secondary">#003918</color>
+    <color name="on_secondary_container">#88c793</color>
+
+    <color name="error">#ffb4ab</color>
+    <color name="error_container">#93000a</color>
+    <color name="on_error">#690005</color>
+    <color name="on_error_container">#ffdad6</color>
+
+    <color name="surface">#131312</color>
+    <color name="on_surface">#e5e2de</color>
+    <color name="surface_variant">#353533</color>
+    <color name="on_surface_variant">#c4c8b9</color>
+    <color name="surface_container">#20201e</color>
+    <color name="surface_container_low">#1c1c1a</color>
+    <color name="surface_container_high">#2a2a28</color>
+    <color name="surface_container_highest">#353533</color>
+
+    <color name="outline">#8e9285</color>
+    <color name="outline_variant">#44483d</color>
+
+    <!-- App specific custom colors -->
+    <color name="board_dark">#769656</color>
+    <color name="board_light">#EEEED2</color>
+    <color name="board_highlight">#AADD55</color> <!-- Soft green for highlights -->
+    <color name="board_selected">#5C7844</color>
+</resources>
